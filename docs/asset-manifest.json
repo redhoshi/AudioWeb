@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AudioWeb/static/css/main.f855e6bc.css",
-    "main.js": "/AudioWeb/static/js/main.55ff7d8a.js",
-    "static/js/453.0896aaba.chunk.js": "/AudioWeb/static/js/453.0896aaba.chunk.js",
+    "main.css": "/AudioWeb/static/css/main.ecbe6100.css",
+    "main.js": "/AudioWeb/static/js/main.17524e96.js",
+    "static/js/453.ecc1a4fa.chunk.js": "/AudioWeb/static/js/453.ecc1a4fa.chunk.js",
     "static/media/logo.svg": "/AudioWeb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AudioWeb/index.html",
-    "main.f855e6bc.css.map": "/AudioWeb/static/css/main.f855e6bc.css.map",
-    "main.55ff7d8a.js.map": "/AudioWeb/static/js/main.55ff7d8a.js.map",
-    "453.0896aaba.chunk.js.map": "/AudioWeb/static/js/453.0896aaba.chunk.js.map"
+    "main.ecbe6100.css.map": "/AudioWeb/static/css/main.ecbe6100.css.map",
+    "main.17524e96.js.map": "/AudioWeb/static/js/main.17524e96.js.map",
+    "453.ecc1a4fa.chunk.js.map": "/AudioWeb/static/js/453.ecc1a4fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.55ff7d8a.js"
+    "static/css/main.ecbe6100.css",
+    "static/js/main.17524e96.js"
   ]
 }
