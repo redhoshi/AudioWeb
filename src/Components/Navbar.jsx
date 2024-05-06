@@ -76,7 +76,7 @@ export default function Navbar() {
                 <Button className="btnRes">
                   <a href="#World">
                     {" "}
-                    <b>World</b>
+                    <b>Worlds</b>
                   </a>
                 </Button>
 
