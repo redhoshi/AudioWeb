@@ -6,12 +6,15 @@ import './App.css';
 import { ChakraProvider } from '@chakra-ui/react';
 import Contact from './Pages/Contact';
 import Navbar from './Components/Navbar';
+import AudioGenerator from './Pages/Waveform';
+
 
 function App() {
   return (
     <div className="App">
       <ChakraProvider>
           <Navbar/>
+          <AudioGenerator/>
           <Contact/>
         </ChakraProvider>
     </div>
